@@ -7,5 +7,6 @@
 </head>
 <body>
     <h2>hello world</h2>
+    <p>This is a simple paragraph.</p>
 </body>
 </html>
